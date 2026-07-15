@@ -15,3 +15,33 @@ export_credentials.cfg
 .mono/
 data_*/
 mono_crash.*.json
+
+# Compiled game builds — don't commit these: GitHub rejects files over 100 MB.
+# Attach them to a GitHub Release instead (up to 2 GB per file).
+*.apk
+*.aab
+*.ipa
+*.xcarchive
+*.dSYM/
+
+# Signing keys & credentials — never commit these
+*.keystore
+*.jks
+*.p12
+*.pem
+*.cer
+*.mobileprovision
+
+# Godot Android gradle build template output
+android/build/
+android/.build_version
+
+# Xcode / iOS export leftovers
+xcuserdata/
+DerivedData/
+
+# OS junk
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
