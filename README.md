@@ -1,4 +1,4 @@
-# Buckshot Roulette — Fan Remake (Android · iOS · iPadOS)
+# Buckshot Roulette — reverse-engineered remake (Android · iOS · iPadOS)
 
 ![Godot Engine](https://img.shields.io/badge/Godot-4.3-478CBF?logo=godotengine&logoColor=white)
 ![Platforms](https://img.shields.io/badge/platforms-Android%20·%20iOS%20·%20iPadOS-2ea44f)
